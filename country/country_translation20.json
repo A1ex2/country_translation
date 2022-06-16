@@ -1,0 +1,143 @@
+[
+{
+"name": "Ã…land",
+"nameRU": "Земля",
+"nameUA": "Ã…земля",
+"cities": [
+{
+"name": "EckerÃ¶",
+"nameRU": "Эккеро",
+"nameUA": "EckerÃ¶",
+"timeZone": ""
+},
+{
+"name": "Godby",
+"nameRU": "Годби",
+"nameUA": "Godby",
+"timeZone": ""
+},
+{
+"name": "Gottby",
+"nameRU": "Готби",
+"nameUA": "Готбі",
+"timeZone": ""
+},
+{
+"name": "Hammarland",
+"nameRU": "Хаммарланд",
+"nameUA": "Хаммарланд",
+"timeZone": ""
+},
+{
+"name": "Jurmo",
+"nameRU": "Юрмо",
+"nameUA": "Юрмо",
+"timeZone": ""
+},
+{
+"name": "Lemland",
+"nameRU": "Лемланд",
+"nameUA": "Лемланд",
+"timeZone": ""
+},
+{
+"name": "Mariehamn",
+"nameRU": "Мариехамн",
+"nameUA": "Марієхамн",
+"timeZone": ""
+},
+{
+"name": "OEdkarby",
+"nameRU": "Эдкарби",
+"nameUA": "О.Едкарби",
+"timeZone": ""
+},
+{
+"name": "Saltvik",
+"nameRU": "Салтвик",
+"nameUA": "Салтвик",
+"timeZone": ""
+}
+]
+},
+{
+"name": "Afghanistan",
+"nameRU": "Афганистан",
+"nameUA": "Афганістан",
+"cities": [
+{
+"name": "Herat",
+"nameRU": "Герат",
+"nameUA": "Герат",
+"timeZone": ""
+},
+{
+"name": "Kabul",
+"nameRU": "Кабул",
+"nameUA": "Кабул",
+"timeZone": ""
+},
+{
+"name": "Kandahar",
+"nameRU": "Кандагар",
+"nameUA": "Кандагар",
+"timeZone": ""
+},
+{
+"name": "Molah",
+"nameRU": "Мола",
+"nameUA": "Мола",
+"timeZone": ""
+},
+{
+"name": "Rana",
+"nameRU": "Рана",
+"nameUA": "Рана",
+"timeZone": ""
+},
+{
+"name": "Shar",
+"nameRU": "Шар",
+"nameUA": "Шар",
+"timeZone": ""
+},
+{
+"name": "Sharif",
+"nameRU": "Шариф",
+"nameUA": "Шаріф",
+"timeZone": ""
+},
+{
+"name": "Wazir Akbar Khan",
+"nameRU": "Вазир Акбар Хан",
+"nameUA": "Вазір Акбар Хан",
+"timeZone": ""
+}
+]
+},
+{
+"name": "Albania",
+"nameRU": "Албания",
+"nameUA": "Албанія",
+"cities": [
+{
+"name": "DurrÃ«s",
+"nameRU": "Дуррес",
+"nameUA": "DurrÃ«s",
+"timeZone": ""
+},
+{
+"name": "Elbasan",
+"nameRU": "Эльбасан",
+"nameUA": "Ельбасан",
+"timeZone": ""
+},
+{
+"name": "Petran",
+"nameRU": "Петран",
+"nameUA": "Петран",
+"timeZone": ""
+}
+]
+}
+]
